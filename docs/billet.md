@@ -33,22 +33,22 @@
 
 ## Résumé
 
-   Aujourd'hui on dénote beaucoup de "buzzwords" liés à l'intelligence artificielle, notamment les notions d' "enceintes intelligentes" ou encore de "chatbots". Depuis deux ans, l'utilisation de ces nouveaux services a considérablement augmenté.
-   
+   Aujourd'hui on dénote beaucoup de "buzzwords" en UX Design, notamment les notions d' "enceintes intelligentes" ou encore de "chatbots". Depuis deux ans, l'utilisation de ces nouveaux services a considérablement augmenté.
+ 
    
 Quels sont les impacts de ces nouvelles technologies sur leurs utilisateurs ? Facilitent-elles réellement les usages ?
 
 
-   Dans un premier temps, sur la question des assistants vocaux et enceintes intelligentes, ces services se sont naturellement démarqués du fait qu'ils simplifient certaines actions : obtenir de l'information et exécuter des actions simples rapidement. L'utilisation de la voix permet aussi de défier l'espace physique, de ne pas avoir besoin de la vision et de minimiser certains efforts.
+   Dans un premier temps, concernant les assistants vocaux et enceintes intelligentes, ces services se sont démarqués du fait qu'ils simplifient certaines actions : obtenir de l'information et exécuter des actions simples. L'utilisation de la voix permet aussi de défier l'espace physique, de ne pas avoir besoin de la vision et de minimiser ses efforts.
    
-La plupart des utilisateurs ne se contentent que d'actions très simples ou s'en servent putôt comme un "jouet" mais les assistants vocaux ne sont pas adaptés à toutes les situations et se confrontent à des problèmes réels : l'utilisation en environnement bruyant ou encore dans le cas d'actions complexes avec un cheminement conversationnel. Cela prend notamment du temps, c'est linéaire et il faut souvent répéter plusieurs fois pour arriver d'un point A à un point B, cela peut-être décourageant. 
+La plupart des utilisateurs s'en servent putôt comme un "jouet" mais les assistants vocaux ne sont pas adaptés à toutes les situations et se confrontent à des problèmes : l'utilisation en environnement bruyant ou pour des actions complexes avec un cheminement conversationnel. Cela prend du temps, c'est linéaire, il faut souvent répéter plusieurs fois pour arriver d'un point A à un point B et cela peut-être décourageant. 
 
 À noter également que par exemple, sur un site e-commerce, l'enceinte ne remplace pas un écran : l'enceinte n'énoncera pas toutes les marques de dentifrices existantes et devra faire un choix restreint si l'utilisateur souhaite du dentifrice.
 
 
    Autre type d'agent conversationnel populaire : les chatbots.
    
-Les chatbots sont utiles car ils permettent d’entrer en relation avec les utilisateurs suivant un modèle d'intéraction ancré dans leurs usages : la messagerie instantanée. On incite donc vite ces derniers à les utiliser et ce sans nécessité d'apprentissage de leur part.
+Les chatbots sont utiles car ils se basent sur un modèle familié des utilisateurs : la messagerie instantanée. On incite donc vite ces derniers à les utiliser et ce sans nécessité d'apprentissage de leur part.
 
 Bien qu'efficaces dans le cas d'un service client, on remarque cependant que beaucoup de chatbots ne servent pas à l'utilisateur : certains sont plutôt issus d'une blague de programmeur, d'autres trop bavards et oppressants, et d'autres reposent uniquement sur un arbre de décision et ne présentent pas d'apprentissage donc on se retrouve vite limité. Si l'utilisateur prend conscience trop vite qu'il parle avec un robot, il changera son attitude avec ce dernier et ce n'est pas le but recherché.
 
@@ -60,4 +60,7 @@ Bien qu'efficaces dans le cas d'un service client, on remarque cependant que bea
 
 
 ## Architecture et facteur qualité
+
+- **Utilisabilité** : Ce sont deux technologies centrées sur l'expérience utilisateur car elles reproduisent et simulent des intéractions sociales naturelles donc il est important de veiller à une prise en main facile et sans apprentissage. 
+- **Conformité** : Les technologies présentées doivent pouvoir répondre au besoin de l'utilisateur et fournir une aide correcte à ce dernier. Si elles présentent trop de bugs ou sont imprécises, l'utilisateur ne continuera pas à exploiter ces services.
 
