@@ -38,7 +38,10 @@ Quels sont les impacts de ces nouvelles technologies sur leurs utilisateurs ? Fa
 
 
 Dans un premier temps, sur la question des assistants vocaux et enceintes intelligentes, ces services se sont naturellement démarqués du fait qu'ils simplifient certains actions : obtenir par exemple des informations et exécuter des actions simples rapidement. L'utilisation de la voix permet aussi de défier l'espace physique, de ne pas avoir besoin de la vision et de minimiser certains efforts.
-Pourtant, même si la plupart des utilisateurs souvent ne se contente que d'actions très simples ou s'en servent putôt comme un des "jouets", les assistants vocaux ne sont pas adaptés à toutes les situations et se confrontent à des problèmes réels : utilisation en environnement bruyant ou encore dans le cas d'actions complexes lorsqu'il s'agit d'aller au-delà d'une intéraction avec une seule question et une seule réponse : cela prend notamment du temps, c'est linéaire et il faut souvent répéter plusieurs fois pour arriver à ce que l'on désire vraiment, cela peut-être agaçant. À noter également que par exemple, sur un site e-commerce, l'enceinte ne peut pas remplacer un écran : comment distinguer telle ou telle marque de produit vaisselle si l'on a juste indiqué que nous souhaitions du liquide vaisselle ?
+Pourtant, même si la plupart des utilisateurs souvent ne se contente que d'actions très simples ou s'en servent putôt comme un des "jouets", les assistants vocaux ne sont pas adaptés à toutes les situations et se confrontent à des problèmes réels : utilisation en environnement bruyant ou encore dans le cas d'actions complexes lorsqu'il s'agit d'aller au-delà d'une intéraction avec une seule question et une seule réponse : cela prend notamment du temps, c'est linéaire et il faut souvent répéter plusieurs fois pour arriver à ce que l'on désire vraiment, cela peut-être agaçant. À noter également que par exemple, sur un site e-commerce, l'enceinte ne peut pas remplacer un écran : comment distinguer telle ou telle marque de produit vaisselle si l'on a juste indiqué que nous souhaitions du liquide vaisselle ? L'enceinte ne peut pas dicter tous les produits existants tellement qu'il y en a et doit donc faire un choix restreint.
+
+Autre type d'agent conversationnel populaire : les Chatbots.
+
 
 
 ## Architecture et facteur qualité
