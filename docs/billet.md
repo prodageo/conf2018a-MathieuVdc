@@ -13,7 +13,7 @@
  - Auteur du billet : [Mathieu VANDECASTEELE](https://www.linkedin.com/in/mathieuvdc/)
  - Mots-clés : UX, Chatbots, Enceintes, services vocaux, Google Home, Alexa, atouts, défauts
  - URL de l'illustration : ![Illustration](UX_CES18.jpg)
-   - Sources annexes : 
+   - Liens annexes : 
      - [UX sur le Gâteau](https://ux-surlegateau.com)
      - [École Centrale de Lille](http://centralelille.fr/)
 
