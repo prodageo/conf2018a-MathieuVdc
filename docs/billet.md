@@ -11,7 +11,7 @@
    - [Amélie BOUCHER](https://www.linkedin.com/in/amelieboucher/)
  - Audience : ~ 250 personnes
  - Auteur du billet : [Mathieu VANDECASTEELE](https://www.linkedin.com/in/mathieuvdc/)
- - Mots-clés : UX, Chatbots, Enceintes, IOT, services vocaux, Google Home, Alexa, atouts, défauts
+ - Mots-clés : UX, Chatbots, Enceintes, IOT, services vocaux, Google Home, Alexa
  - URL de l'illustration : ![Illustration](UX_CES18.jpg)
    - Liens annexes : 
      - [UX sur le Gâteau](https://ux-surlegateau.com)
