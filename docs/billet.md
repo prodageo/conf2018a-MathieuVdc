@@ -18,7 +18,7 @@
      - [École Centrale de Lille](http://centralelille.fr/)
 
 ## Support
- - Lien vers le support (diapos) présenté en conférence : /
+ - Lien vers le support (diapos) présenté en conférence : ![Illustration](UX_CES18.jpg)
  - Nombre de diapos du support : 32
  - Plan du support :
     - Enceintes connectées
