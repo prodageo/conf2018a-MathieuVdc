@@ -1,28 +1,33 @@
-# Titre
+# Résumé conférence Codeur en Seine 2018 Mathieu VANDECASTEELE
 
 ## Cartouche d'identification
 
- - Manifestation : CodeursEnSeine 2017
- - Lieu : Université de Rouen - site du Madrillet
- - Conférence : ...
- - Horaire de la conférence : ...
- - Durée de la conférence : ...
+ - Manifestation : CodeursEnSeine 2018
+ - Lieu : Kindarena
+ - Conférence : **Service vocaux & chatbots : l'UX du futurs?**
+ - Horaire de la conférence : 14h30
+ - Durée de la conférence : 50 minutes
  - Conférencier(s) :
-   - ... (lien vers au moins un réseau social : LinkedIn, Twitter, site personnel, ...)
-   - ...
- - Audience : ...
- - Auteur du billet : ...
- - Mots-clés
- - URL de l'illustration : ![Mettre votre image, Photo by Oscar Keys on Unsplash](oscar-keys-58399-unsplash.jpg)
-   - quelques sources : https://unsplash.com, https://xkcd.com/, http://dev.to/rly, ...
+   - [Amélie BOUCHER](https://www.linkedin.com/in/amelieboucher/)
+ - Audience : ~ 250 personnes
+ - Auteur du billet : [Mathieu VANDECASTEELE](https://www.linkedin.com/in/mathieuvdc/)
+ - Mots-clés : UX, Chatbots, Enceintes, services vocaux, Google Home, Alexa, atouts, défauts
+ - URL de l'illustration : /
+   - Sources annexes : 
+     - [UX sur le Gâteau](https://ux-surlegateau.com)
+     - [École Centrale de Lille](http://centralelille.fr/)
 
 ## Support
- - Lien vers le support (diapos) présenté en conférence
- - Nombre de diapos du support :
+ - Lien vers le support (diapos) présenté en conférence : /
+ - Nombre de diapos du support : 32
  - Plan du support :
+    - Enceintes connectées
+
+    - Chatbots
+
 
 ## Résumé
-...
+
 
 ## Architecture et facteur qualité
-...
+
