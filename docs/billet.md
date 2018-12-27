@@ -39,24 +39,24 @@
 Quels sont les impacts de ces nouvelles technologies sur leurs utilisateurs ? Facilitent-elles réellement les usages ?
 
 
-   Dans un premier temps, sur la question des assistants vocaux et enceintes intelligentes, ces services se sont naturellement démarqués du fait qu'ils simplifient certaines actions : obtenir par exemple des informations et exécuter des actions simples rapidement. L'utilisation de la voix permet aussi de défier l'espace physique, de ne pas avoir besoin de la vision et de minimiser certains efforts.
+   Dans un premier temps, sur la question des assistants vocaux et enceintes intelligentes, ces services se sont naturellement démarqués du fait qu'ils simplifient certaines actions : obtenir de l'information et exécuter des actions simples rapidement. L'utilisation de la voix permet aussi de défier l'espace physique, de ne pas avoir besoin de la vision et de minimiser certains efforts.
    
-Pourtant, même si la plupart des utilisateurs ne se contentent que d'actions très simples ou s'en servent putôt comme un "jouet", les assistants vocaux ne sont pas adaptés à toutes les situations et se confrontent à des problèmes réels : l'utilisation en environnement bruyant ou encore dans le cas d'actions complexes lorsqu'il s'agit d'aller au-delà d'une intéraction avec une seule question et une seule réponse. Cela prend notamment du temps, c'est linéaire et il faut souvent répéter plusieurs fois pour arriver à ce que l'on désire vraiment ou pour arriver d'un point A à un point B, cela peut-être décourageant. 
+La plupart des utilisateurs ne se contentent que d'actions très simples ou s'en servent putôt comme un "jouet" mais les assistants vocaux ne sont pas adaptés à toutes les situations et se confrontent à des problèmes réels : l'utilisation en environnement bruyant ou encore dans le cas d'actions complexes avec un cheminement conversationnel. Cela prend notamment du temps, c'est linéaire et il faut souvent répéter plusieurs fois pour arriver d'un point A à un point B, cela peut-être décourageant. 
 
-À noter également que par exemple, sur un site e-commerce, l'enceinte ne peut pas remplacer un écran : comment distinguer telle ou telle marque de dentifrice si l'on a juste indiqué que nous souhaitions du dentifrice ? L'enceinte ne peut pas dicter tous les produits existants lorsqu'ils sont nombreux et doit donc faire un choix restreint.
+À noter également que par exemple, sur un site e-commerce, l'enceinte ne remplace pas un écran : l'enceinte n'énoncera pas toutes les marques de dentifrices existantes et devra faire un choix restreint si l'utilisateur souhaite du dentifrice.
 
 
    Autre type d'agent conversationnel populaire : les chatbots.
    
-Les chatbots sont facilement identifiés grâce à leur interface similaire à celle des messagerie instantanées, toujours située en bas à droite des sites. Ces chatbots sont très utiles car ils permettent d’entrer en relation avec les utilisateurs, avec un modèle d'interaction ancré dans leurs usages : on incite donc très vite les utilisateurs à utiliser ces derniers et ce sans nécessité d'apprentissage de leur part.
+Les chatbots sont utiles car ils permettent d’entrer en relation avec les utilisateurs suivant un modèle d'intéraction ancré dans leurs usages : la messagerie instantanée. On incite donc vite ces derniers à les utiliser et ce sans nécessité d'apprentissage de leur part.
 
-Bien qu'efficaces dans le cas d'un service client, on remarque cependant que beaucoup de chatbots ne servent pas à l'utilisateur : on a des chatbots qui sont plutôt issus d'une blague de programmeur, d'autres trop bavards et oppressants, certains suivent également qu'un arbre de décision et ne présente pas d'enrichissement avec Machine Learning donc on se retrouve vite limité. Si l'utilisateur prend conscience trop vite qu'il parle avec un robot, il changera son attitude avec ce dernier et ce n'est pas le but recherché.
-
-
-   Pour faire un chatbot efficace, il faut respecter les codes conversationnels fondamentaux des humains sinon cela ne marche pas et autant ne pas investir du temps à développer un chatbot.
+Bien qu'efficaces dans le cas d'un service client, on remarque cependant que beaucoup de chatbots ne servent pas à l'utilisateur : certains sont plutôt issus d'une blague de programmeur, d'autres trop bavards et oppressants, et d'autres reposent uniquement sur un arbre de décision et ne présentent pas d'apprentissage donc on se retrouve vite limité. Si l'utilisateur prend conscience trop vite qu'il parle avec un robot, il changera son attitude avec ce dernier et ce n'est pas le but recherché.
 
 
-   Pour conclure sur la conférence, aujourd'hui le métier de designer revient à designer en 2018 essentiellement ce que l'on ne voit pas et ces deux exemples de services qui sont des opportunités doivent être améliorés pour donner un sens à leur avenir.
+   Pour faire un chatbot efficace, il faut respecter les codes conversationnels fondamentaux des humains sinon cela ne marche pas.
+
+
+   Aujourd'hui le métier de designer revient à designer essentiellement ce que l'on ne voit pas et ces deux exemples de services qui sont des opportunités doivent être améliorés pour donner un sens à leur avenir.
 
 
 ## Architecture et facteur qualité
