@@ -11,7 +11,7 @@
    - [Amélie BOUCHER](https://www.linkedin.com/in/amelieboucher/)
  - Audience : ~ 250 personnes
  - Auteur du billet : [Mathieu VANDECASTEELE](https://www.linkedin.com/in/mathieuvdc/)
- - Mots-clés : UX, Chatbots, Enceintes, services vocaux, Google Home, Alexa, atouts, défauts
+ - Mots-clés : UX, Chatbots, Enceintes, IOT, services vocaux, Google Home, Alexa, atouts, défauts
  - URL de l'illustration : ![Illustration](UX_CES18.jpg)
    - Liens annexes : 
      - [UX sur le Gâteau](https://ux-surlegateau.com)
@@ -22,10 +22,14 @@
  - Nombre de diapos du support : 32
  - Plan du support :
  
-    - Enceintes connectées
+    - Assistants Vocaux et Enceintes connectées
+      - Les points positifs sur le plan expérience utilisateur, pourquoi c'est aujourd'hui si populaire ?
+      - Les inconvénients de ces technologies.
 
-    - Chatbots
-
+    - Le cas des Chatbots
+      - Les points positifs sur le plan expérience utilisateur, pourquoi c'est aujourd'hui si populaire ?
+      - Les inconvénients de ces nouvelles formes d'expériences.
+      - Exemples de bons et mauvais Chatbots.
 
 ## Résumé
 
