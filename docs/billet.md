@@ -12,13 +12,13 @@
  - Audience : ~ 250 personnes
  - Auteur du billet : [Mathieu VANDECASTEELE](https://www.linkedin.com/in/mathieuvdc/)
  - Mots-clés : UX, Chatbots, Enceintes, services vocaux, Google Home, Alexa, atouts, défauts
- - URL de l'illustration : /
+ - URL de l'illustration : ![Illustration](UX_CES18.jpg)
    - Sources annexes : 
      - [UX sur le Gâteau](https://ux-surlegateau.com)
      - [École Centrale de Lille](http://centralelille.fr/)
 
 ## Support
- - Aperçu du support (diapos) présenté en conférence : ![Illustration](UX_CES18.jpg)
+ - Lien du support (diapos) présenté en conférence : indisponible
  - Nombre de diapos du support : 32
  - Plan du support :
  
